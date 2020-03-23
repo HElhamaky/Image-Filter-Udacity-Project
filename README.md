@@ -46,3 +46,12 @@ Prevent requests without valid authentication headers.
 
 Add your own domain name and have it point to the running services (try adding a subdomain name to point to the processing server)
 > !NOTE: Domain names are not included in AWS’ free tier and will incur a cost.
+
+
+## Citation and Attribution
+
+In order to complete this project I have looked at some repositories, listed below.
+* [udagram](https://github.com/muntasir2165/udagram) by @muntasir2165
+* [Udacity-Udagram](https://github.com/smokyabdulrahman/Udacity-Udagram) by @smokyabdulrahman
+
+
